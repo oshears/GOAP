@@ -40,3 +40,7 @@ README.md.meta
 
 # OYS: Ignore demo dir
 Demo/
+Demo~
+Package/Tests~
+Package/Tests~.meta
+Demo~.meta
