@@ -38,10 +38,5 @@ sysinfo.txt
 LICENSE.meta
 README.md.meta
 
-# OYS: Ignore meta files for now
-Demo.meta
-package.json.meta
-Package.meta
-
-# OYS: Ignore demo dir for now
+# OYS: Ignore demo dir
 Demo/
